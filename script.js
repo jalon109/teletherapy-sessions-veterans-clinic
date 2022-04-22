@@ -4,7 +4,7 @@ var TITLE = 'Teletherapy sessions not only matched pre-COVID in-person sessions,
 var CAPTION = 'Source: APA';
 
 // Add download link to the caption
-CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
+CAPTION += '<br><a href="https://github.com/jalon109/teletherapy-sessions-veterans-clinic" style="color:blue">View data and code</a>, \
 created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnDataViz</a> \
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
