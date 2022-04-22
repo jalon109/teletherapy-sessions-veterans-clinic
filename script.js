@@ -5,7 +5,7 @@ var CAPTION = 'Source: APA';
 
 // Add download link to the caption
 CAPTION += '<br><a href="https://github.com/jalon109/teletherapy-sessions-veterans-clinic" style="color:blue">View data and code</a>, \
-created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnDataViz</a> \
+created by Jose Alonso, David Espinosa, Jake Frederico, Mia Petruccelli \
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
 // x-axis label and label in tooltip
