@@ -1,4 +1,4 @@
-Week,In-Person,Virtual
+Week,In-Person,Virtual,Note
 -8,96,3
 -7,128,3
 -6,109,3
@@ -7,7 +7,7 @@ Week,In-Person,Virtual
 -3,112,4
 -2,70,6
 -1,123,5
-0,0,73
+0,0,73,Week of COVID-19 Closure
 1,0,110
 2,0,110
 3,0,148
