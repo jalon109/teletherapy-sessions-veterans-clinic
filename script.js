@@ -1,7 +1,7 @@
-var TITLE = 'Air Transport, Passengers Carried (1970–2018)';
+var TITLE = 'Teletherapy sessions not only matched pre-COVID in-person sessions, they surpassed them.';
 
 // Caption underneath the chart
-var CAPTION = 'Source: The World Bank';
+var CAPTION = 'Source: APA';
 
 // Add download link to the caption
 CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
@@ -9,10 +9,10 @@ created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnData
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
 // x-axis label and label in tooltip
-var X_AXIS = 'Year';
+var X_AXIS = 'Week';
 
 // y-axis label and label in tooltip
-var Y_AXIS = 'Passengers';
+var Y_AXIS = 'Sessions';
 
 // Should y-axis start from 0? `true` or `false`
 var BEGIN_AT_ZERO = true;
